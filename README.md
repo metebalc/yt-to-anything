@@ -11,7 +11,17 @@ Youtube URL to video format converter
 - GLAD2 
 
 ## Supported Formats
+### Video
 - mp4
+- mov
+- webm
+- mkv
+
+### Audio
 - mp3
+- aac
+- m4a
+- wav
+- ogg (Vorbis)
 
 ## Download
