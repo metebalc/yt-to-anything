@@ -1,3 +1,5 @@
 .idea
 main.exe
 main
+build/
+downloads/

@@ -75,7 +75,7 @@ int main()
 
     converter.setWebsiteUrl(websiteUrl);
 
-    int result = converter.convertToMp3();
+    int result = converter.convertToOgg();
 
     if (result != 0)
     {
